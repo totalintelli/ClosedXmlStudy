@@ -1,0 +1,13 @@
+D:\Projects\ClosedXmlStudy\ClosedXmlStudy\bin\Debug\ClosedXmlStudy.exe.config
+D:\Projects\ClosedXmlStudy\ClosedXmlStudy\bin\Debug\ClosedXmlStudy.exe
+D:\Projects\ClosedXmlStudy\ClosedXmlStudy\bin\Debug\ClosedXmlStudy.pdb
+D:\Projects\ClosedXmlStudy\ClosedXmlStudy\bin\Debug\ClosedXML.dll
+D:\Projects\ClosedXmlStudy\ClosedXmlStudy\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Projects\ClosedXmlStudy\ClosedXmlStudy\bin\Debug\ClosedXML.xml
+D:\Projects\ClosedXmlStudy\ClosedXmlStudy\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Projects\ClosedXmlStudy\ClosedXmlStudy\obj\Debug\ClosedXmlStudy.csprojResolveAssemblyReference.cache
+D:\Projects\ClosedXmlStudy\ClosedXmlStudy\obj\Debug\ClosedXmlStudy.Form1.resources
+D:\Projects\ClosedXmlStudy\ClosedXmlStudy\obj\Debug\ClosedXmlStudy.Properties.Resources.resources
+D:\Projects\ClosedXmlStudy\ClosedXmlStudy\obj\Debug\ClosedXmlStudy.csproj.GenerateResource.Cache
+D:\Projects\ClosedXmlStudy\ClosedXmlStudy\obj\Debug\ClosedXmlStudy.exe
+D:\Projects\ClosedXmlStudy\ClosedXmlStudy\obj\Debug\ClosedXmlStudy.pdb
